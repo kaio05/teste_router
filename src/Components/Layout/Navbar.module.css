@@ -1,0 +1,9 @@
+.nav_list {
+    display: flex;
+    list-style-type: none;
+    padding: 1em;
+}
+
+.nav_list li {
+    padding: 0 2em;
+}
